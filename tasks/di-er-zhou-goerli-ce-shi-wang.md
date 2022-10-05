@@ -7,7 +7,7 @@ coverY: 0
 # 第二周（Goerli测试网）
 
 {% hint style="warning" %}
-<mark style="color:red;">**特别声明：**</mark> 每周任务前，请参看 [任务准备](broken-reference) ，无论此周任务需要用到多少！！！
+<mark style="color:red;">**特别声明：**</mark> 每周任务前，请参看 [任务准备](../preparation/ren-wu-zhun-bei-zuo-qian-bi-kan.md) ，无论此周任务需要用到多少！！！
 {% endhint %}
 
 ### 一、准备工作
