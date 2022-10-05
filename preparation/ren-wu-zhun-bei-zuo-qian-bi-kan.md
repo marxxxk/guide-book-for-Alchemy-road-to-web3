@@ -48,11 +48,11 @@ _**特别说明：** 鉴于很多朋友反馈，本地环境配置对新手的�
 
 &#x20;               b. 如页面中间出现下图，选“Repository”，然后到2）
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           2\) 再选“New”
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           3\) 设置好repository的名字，勾上“Add a README file”，点“Create repository”
 
@@ -110,11 +110,11 @@ __![](<../.gitbook/assets/image (16) (1).png>)__
 
 &#x20;           __            7）再次回到下图页面，表示replit已与github链接上，为每周任务做好准备
 
-<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           8）然后在图中红圈处粘贴前面 [第4步](ren-wu-zhun-bei-zuo-qian-bi-kan.md#4.-deng-lu-dao-zi-ji-de-github-ye-mian-chuang-jian-dui-ying-ren-wu-zhou-de-repository-liu-cheng-ru-x) 中复制的github地址
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           9）会变成下图所示，然后点击“Import from github”
 
@@ -126,7 +126,7 @@ _也可通过刷新网页，选择下拉菜单中最新的_
 
 &#x20;           10）进去项目后，在右边如下图所示，点击“Done”&#x20;
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       7. 这样准备工作就基本完成了，接着可以先看 任务中所用平台和工具
 

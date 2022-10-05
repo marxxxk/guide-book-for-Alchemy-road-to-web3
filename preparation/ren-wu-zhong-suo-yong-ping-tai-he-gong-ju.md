@@ -29,11 +29,11 @@ _c. 如果一个账号已构建5个APP，请及时更换到另一个账户（此
 NAME处根据任务来命名
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       4. 创建成功后，点击 VIEW KEY
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       5. 复制两个红框的内容，<mark style="color:red;">HTTPS</mark> 和 <mark style="color:red;">API KEY</mark> ，用于任务
 
@@ -47,7 +47,7 @@ NAME处根据任务来命名
 
 #### &#x20;           **1. 点击 Metamask 右上角的三点，点击 账户详情**           &#x20;
 
-&#x20;                                              ****                                               ![](<../.gitbook/assets/image (13).png>)
+&#x20;                                              ****                                               ![](<../.gitbook/assets/image (13) (2).png>)
 
 #### &#x20;           2. 点击 导出私钥
 
@@ -65,11 +65,11 @@ _建议采用_ [_<mark style="color:red;">任务准备</mark>_](ren-wu-zhun-bei-
 
 #### &#x20;           1. 点开 Metamask，选好 <mark style="color:red;">对应的网络</mark>，再点账号旁边3个点，点击 <mark style="color:red;">在资源浏览器中查看</mark>
 
-&#x20;                                                    ![](<../.gitbook/assets/image (21).png>)
+&#x20;                                                    ![](<../.gitbook/assets/image (21) (1).png>)
 
 #### &#x20;           2. 如果区块浏览器的地址不对，就点击钱包网络旁边的按钮，选 设置（正常的话跳过此步）
 
-&#x20;                                                    ![](<../.gitbook/assets/image (3).png>)
+&#x20;                                                    ![](<../.gitbook/assets/image (3) (2).png>)
 
 &#x20;               1）进去后选择 网络
 
@@ -77,11 +77,11 @@ _建议采用_ [_<mark style="color:red;">任务准备</mark>_](ren-wu-zhun-bei-
 
 &#x20;               2）选择对应的网络，进行设置（比如Optimism Goerli）
 
-&#x20;                                                    ![](<../.gitbook/assets/image (4) (2).png>)
+&#x20;                                                    ![](<../.gitbook/assets/image (4) (2) (1).png>)
 
 &#x20;               3）修改区块浏览器地址后，点击 保存
 
-&#x20;                                              ![](<../.gitbook/assets/image (2).png>)
+&#x20;                                              ![](<../.gitbook/assets/image (2) (3).png>)
 
 #### &#x20;           3. 区块浏览器会在新网页打开，展示所有合约，默认最新的在前面
 
@@ -89,7 +89,7 @@ _建议采用_ [_<mark style="color:red;">任务准备</mark>_](ren-wu-zhun-bei-
 _图中左上是钱包地址。 Contract Creation就是最新创建的合约，点进去就能看到最新合约所有的交互，第二个图红框处即合约地址_
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
@@ -125,7 +125,7 @@ _发布前切记删除一切和私钥相关的文件_
 
 #### &#x20;       1. 在具体项目页面，右上角点击 publish
 
-<figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _也有朋友遇到不在右上角的情况，如下寻找即可_
@@ -143,11 +143,11 @@ _也有朋友遇到不在右上角的情况，如下寻找即可_
 
 <figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (8) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       4. 最后弹出页面，记录下红框处地址，可用于任务提交
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 

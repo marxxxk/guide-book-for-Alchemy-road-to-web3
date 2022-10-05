@@ -22,7 +22,7 @@ coverY: 0
 
 &#x20;           2）填写 Goerli 网络和 前面在Alchemy上生成的RPC URL 信息，并保存
 
-&#x20;                                                    ![](<../.gitbook/assets/image (33).png>)
+&#x20;                                                    ![](<../.gitbook/assets/image (33) (1).png>)
 
 {% hint style="info" %}
 _记得将钱包切换到_ <mark style="color:red;"></mark> <mark style="color:red;"></mark>_<mark style="color:red;">Alchemy</mark>_ <mark style="color:red;"></mark><mark style="color:red;"></mark> <mark style="color:red;"></mark>_<mark style="color:red;">Goerli测试网</mark>_
@@ -30,23 +30,23 @@ _记得将钱包切换到_ <mark style="color:red;"></mark> <mark style="color:r
 
 #### &#x20;       3. 在 [https://goerlifaucet.com/](https://goerlifaucet.com/) 上，登录Alchemy账号，输入钱包地址领取测试ETH
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       4. 在IPFS上上传NFT和元数据
 
 &#x20;           1）进入 [https://filebase.com/](https://filebase.com/) ，注册。登录后，单击左侧菜单 _<mark style="color:red;">Buckets</mark>_ 按钮，然后选 _<mark style="color:red;">Create Bucket</mark>_ ，创建一个新存储桶(自己取名字，重名不行)&#x20;
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                                         ![](<../.gitbook/assets/image (35).png>)
 
 &#x20;           2）点击进入刚创建的Bucket，单击右上的 _<mark style="color:red;">Upload</mark>_ 按钮 ，然后上传您要用于 NFT 的图像
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _a.可上传本地图片，或者网上下载的免费图片（ 比如_ [_https://www.pexels.com/zh-cn/_](https://www.pexels.com/zh-cn/) _）_
@@ -56,7 +56,7 @@ _b.上传时会显示进度条，等待完成后刷新页面_
 
 &#x20;           3）单击名字，进入详细页面，复制 _<mark style="color:red;">IPFS 网关 URL</mark>_，暂时保留页面
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           4）转到电脑桌面，右键新建创建文本文档，重命名为“metadata.json”（连带后缀全改）,复制以下代码进去，保存
 
@@ -118,7 +118,7 @@ _b. 将上一步复制的URL，粘贴替换下面的 ”image“后面_
 
 &#x20;           5）回到 Filebase ，退到上一页，回到图片的桶页面，然后再次点击 _<mark style="color:red;">Upload</mark>_ 进行上传，这次选择的是桌面的metadata.json
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26) (2).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           6）上传成功后，复制一下metadata.json的 _<mark style="color:red;">CID</mark>_，后面需要用到
 
@@ -130,15 +130,15 @@ _b. 将上一步复制的URL，粘贴替换下面的 ”image“后面_
 
 #### &#x20;       1. 进入 [Open Zeppelin](https://docs.openzeppelin.com/contracts/4.x/wizard) 智能合约向导页面，将看到以下编辑器
 
-<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (41) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       2. 点击左上角 ERC721 按钮，输入 Name 和 Symbol
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;      3. 勾选如下的NFT功能
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (42) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       4. 在 OpenZeppelin Wizard 编辑器的顶部，点击“Open in Remix”按钮，在浏览器的新选项卡中打开 REMIX IDE
 
@@ -150,11 +150,11 @@ _b. 将上一步复制的URL，粘贴替换下面的 ”image“后面_
 
 &#x20;           1）在第14行填入 <mark style="color:red;">uint256 MAX\_SUPPLY = 100000;</mark>
 
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (40) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           <mark style="color:red;"></mark>            2）删除17行的 <mark style="color:red;">onlyOwner</mark> ，否则只允许智能合约的所有者（部署智能合约的钱包地址）铸造 NFT
 
-<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (46) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           3）在第19行添加 <mark style="color:red;">require(\_tokenIdCounter.current() <= MAX\_SUPPLY, "I'm sorry we reached the cap");</mark>
 
@@ -166,7 +166,7 @@ _b. 将上一步复制的URL，粘贴替换下面的 ”image“后面_
 
 #### &#x20;       1. 回到 Remix，点击页面左侧的Solidity compiler，版本选0.8.4，勾选Auto compile，然后点击“Compile”按钮
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       2. 左边栏点击“Deploy & Run Transactions”菜单
 
@@ -178,7 +178,7 @@ _contract选择 <mark style="color:red;">Alchemy-contracts</mark> 这个_
 _点击 <mark style="color:red;">Deploy</mark>_
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (3).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       3. 将出现 Metamask 弹出窗口，需支付一些 Gas 费用，单击“确认”
 
@@ -186,7 +186,7 @@ _点击 <mark style="color:red;">Deploy</mark>_
 
 #### &#x20;       4. 如果一切都按预期工作，大约20 秒后，您应该会在左下的 _<mark style="color:red;">Deployed Contracts</mark>_ 处看到该合约
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _若部署合约出现下面类似的错，请检查钱包的网络是否选对_
@@ -206,7 +206,7 @@ _若部署合约出现下面类似的错，请检查钱包的网络是否选对_
 
 #### &#x20;       1. 点开合约
 
-&#x20;                                           ![](<../.gitbook/assets/image (36).png>)
+&#x20;                                           ![](<../.gitbook/assets/image (36) (1).png>)
 
 #### &#x20;       2. 点击 _<mark style="color:red;">safeMint</mark>_ 下拉框
 
@@ -216,15 +216,15 @@ _to 填入 <mark style="color:red;">你的钱包地址</mark>_
 _uri 填入_ _<mark style="color:red;">ipfs://准备工作部分metadata.json的CID</mark>_
 {% endhint %}
 
-&#x20;                                            ![](<../.gitbook/assets/image (20).png>)
+&#x20;                                            ![](<../.gitbook/assets/image (20) (1).png>)
 
 &#x20;           1）点击transact，会花一点手续费，等一会成功了会在右侧显示绿勾
 
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (37) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       3. 将钱包地址复制并粘贴到 _<mark style="color:red;">balanceOf</mark>_ 方法输入中点击call，它应该显示您有 1 个 NFT
 
-&#x20;                                             ![](<../.gitbook/assets/image (30).png>)
+&#x20;                                             ![](<../.gitbook/assets/image (30) (1).png>)
 
 #### &#x20;       4. 在tokenUri 插入“0”作为 id 参数，点击call，它应该显示你的 tokenURI
 
@@ -240,15 +240,15 @@ _由于_ [_https://testnets.opensea.io/_](https://testnets.opensea.io/) _目前�
 
 #### &#x20;       1. 进入 [https://goerli.pixxiti.com/](https://goerli.pixxiti.com/) ，登录自己钱包，然后单击 _<mark style="color:red;">View your NFTs</mark>_ ，您应该会在那里看到您新铸造的 NFT
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23) (2).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           1）红圈图片为刚mint的图片
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       2. 如果图像尚不可见，点击进去，然后单击右下的“Refresh”按钮，大约需要几分钟
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -276,7 +276,7 @@ walletMints[msg.sender]++;
 
 &#x20;            如图：
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _上面 <mark style="color:red;">walletLimt</mark> 的值可以自行修改，后面测试符合此值即可_
@@ -286,7 +286,7 @@ _上面 <mark style="color:red;">walletLimt</mark> 的值可以自行修改，�
 
 &#x20;           1）此处测试需结合上一步设置的 walletLimit 数量。比如设置为2，在to地址和url不改变的情况下，当连续mint成功两次后，查看Metamask上的活动
 
-&#x20;                                                 ![](<../.gitbook/assets/image (17).png>)
+&#x20;                                                 ![](<../.gitbook/assets/image (17) (2).png>)
 
 &#x20;            2）第三次点transact就会出现以下错误（红框处和代码中的提醒一致）
 

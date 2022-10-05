@@ -19,7 +19,7 @@ _每周五：太平洋时间当天结束前（北京时间快 15 小时）_
 
 #### &#x20;       1. 进入 [https://mintkudos.xyz/](https://mintkudos.xyz/) ，链接你的钱包，网络选 Polygon， 再点击钱包地址处选 Profile
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       2. 若有可领取的Pok时，会在红圈处显示出 <mark style="color:red;">Claimable</mark> 的标签
 
