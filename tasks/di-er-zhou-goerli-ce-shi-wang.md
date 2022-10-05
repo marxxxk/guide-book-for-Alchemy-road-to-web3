@@ -30,7 +30,7 @@ coverY: 0
 
 #### &#x20;       1. 点击右边Shell，输入：npm init -y ， 回车(中间选择直接回车)
 
-<figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (69) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       2. 输入：mkdir BuyABCACoffee-contracts，回车
 
@@ -38,17 +38,17 @@ coverY: 0
 
 #### &#x20;       3. 输入：cd BuyABCACoffee-contracts ，回车
 
-<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (49) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       4. 输入： npm init -y ，回车
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       5. 输入： npx hardhat ， 回车(中间选择直接回车，有好几个)
 
-<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (54) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (62) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _会出现不少 <mark style="color:yellow;">WARN</mark> ，不用管。除非出现 <mark style="color:red;">ERR</mark> 或 <mark style="color:red;">ERROR</mark> 等红色提示，才表示安装出错_
@@ -418,7 +418,7 @@ _这时部署到Goerli测试网了，记录一下_ _<mark style="color:red;">dep
 
 #### &#x20;        4. 输入： npx hardhat run scripts/withdraw.js ， 回车
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _中间的 <mark style="color:red;">0.004 ETH</mark> 是不固定的，有些会出现 0.000_
@@ -460,7 +460,7 @@ _创建的目录可能需要等一小段时间才会在左边栏显示出来_
 
 #### &#x20;       4. 输入： npm install --save ethers ， 回车
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       5. 左边栏点开BuyABCACoffee-contracts目录，选择artifacts/contract/BuyABCACoffee.sol/BuyABCACoffee.json文件，点其右边的三个点，选“rename“，复制其文件名
 
@@ -468,7 +468,7 @@ _创建的目录可能需要等一小段时间才会在左边栏显示出来_
 
 #### &#x20;       6. 点击buyabcacoffee-dapp目录右边的三个点，选择“Add folder“，输入utils，回车
 
-&#x20;                                        ![](<../.gitbook/assets/image (59).png>)
+&#x20;                                        ![](<../.gitbook/assets/image (59) (1).png>)
 
 &#x20;                                    ![](<../.gitbook/assets/image (56).png>)
 
@@ -480,7 +480,7 @@ _创建的目录可能需要等一小段时间才会在左边栏显示出来_
 
 #### &#x20;       8. 将第5步中 <mark style="color:red;">BuyABCACoffee.json</mark> 的内容复制到 utils下面的同名文件中
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (31) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       9. 点开 pages 目录，点击 \_app.js文件右边3点，选rename，改成 <mark style="color:red;">\_app.jsx</mark>
 
@@ -1040,7 +1040,7 @@ _图片可去_ [_https://www.pexels.com/zh-cn/_](https://www.pexels.com/zh-cn/) 
 
 &#x20;           2）左边栏点击Files右边3点，选 Upload file
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (3).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;            3）找到刚才下的三张图片，进行上传
 
@@ -1081,7 +1081,7 @@ entrypoint = './buyabcacoffee-dapp/pages/index.jsx'
 
 &#x20;           1）然后显示出下面即成功（console的提示可能会更多一些，只要不是error，都正常）
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       4. 复制上图中的 https 链接，新开一个网页打开它
 
@@ -1101,15 +1101,15 @@ entrypoint = './buyabcacoffee-dapp/pages/index.jsx'
 
 &#x20;            4）成功后，活动成功，memo也会展示出最新信息
 
-&#x20;                                            ![](<../.gitbook/assets/image (2) (1).png>)
+&#x20;                                            ![](<../.gitbook/assets/image (2) (1) (1).png>)
 
-&#x20;                                            ![](<../.gitbook/assets/image (13).png>)
+&#x20;                                            ![](<../.gitbook/assets/image (13) (1).png>)
 
 #### &#x20;       5. 从Metamask上进入区块浏览器，可查看最新合约的相关信息
 
 &#x20;                                              ![](<../.gitbook/assets/image (66).png>)
 
-<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (48) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -1134,7 +1134,7 @@ _切记删除与私钥相关的东西_
 &#x20;            3）github地址
 
 {% hint style="info" %}
-_<mark style="color:red;">合约地址</mark> 在第三部分查看，<mark style="color:red;">Dapp地址</mark> 在第五部分查看，点_ [_<mark style="color:red;">此处</mark>_](../preparation/ren-wu-zhun-bei-zuo-qian-bi-kan.md) _到任务提交部分_
+_<mark style="color:red;">合约地址</mark> 在第三部分查看，<mark style="color:red;">Dapp地址</mark> 在第五部分查看，点_ [_<mark style="color:red;">此处</mark>_](../preparation/ren-wu-ti-jiao-ren-wu-wan-cheng-shi-kan.md) _到任务提交部分_
 
 _（若找不到合约地址，请参看_ [_<mark style="color:red;">任务中所用平台和工具</mark> _ ](../preparation/ren-wu-zhong-suo-yong-ping-tai-he-gong-ju.md)_中钱包相关部分的如何寻找合约地址）_
 {% endhint %}

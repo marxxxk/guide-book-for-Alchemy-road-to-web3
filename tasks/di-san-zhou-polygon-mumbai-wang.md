@@ -44,11 +44,11 @@ coverY: 0
 
 &#x20;            2）钱包弹出窗口，选 批准
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           3）进入 [https://mumbaifaucet.com/](https://mumbaifaucet.com/) ，点击右上的 Alchemy login，用Alchemy账号登录，复制钱包地址，填入下图红框处，点 Send me Matic 即可获得0.5个Matic
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -68,17 +68,17 @@ coverY: 0
 
 #### &#x20;       3. 输入 npm init -y ，回车
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;        4. 输入 npm install hardhat ，回车
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       5. 输入 npx hardhat init ，回车（中间遇到选择停下来时全部回车）
 
 <figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       6. 输入 npm install @openzeppelin/contracts ，回车
 
@@ -86,7 +86,7 @@ coverY: 0
 
 #### &#x20;       7. 输入 npm install @nomiclabs/hardhat-etherscan ，回车
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       8. 输入 npm install @nomiclabs/hardhat-waffle ，回车
 
@@ -94,7 +94,7 @@ coverY: 0
 
 #### &#x20;       9. 输入 npm install dotenv ，回车
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       10. 左边栏点开ChainBattle下的contracts目录，把Lock.sol改名成ChainBattles.sol，流程如下
 
@@ -102,7 +102,7 @@ coverY: 0
 
 &#x20;                                                    ![](<../.gitbook/assets/image (82).png>)
 
-&#x20;                                                    ![](<../.gitbook/assets/image (74).png>)
+&#x20;                                                    ![](<../.gitbook/assets/image (74) (1).png>)
 
 #### &#x20;       11. 改名后回车，自动到中间内容，复制以下内容替换（记得保存）
 
@@ -232,7 +232,7 @@ module.exports = {
 
 &#x20;           1）点击ChainBattle目录右边三个点处，选择“Add file”
 
-&#x20;                                          ![](<../.gitbook/assets/image (3).png>)
+&#x20;                                          ![](<../.gitbook/assets/image (3) (4).png>)
 
 &#x20;           2）输入 <mark style="color:red;">.env</mark> (文件名最前面有小数点)
 
@@ -258,7 +258,7 @@ POLYGONSCAN\_API\_KEY=后面填写 [_<mark style="color:red;">准备工作</mark
 
 &#x20;                保存后，类似如下图
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25) (3).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -290,7 +290,7 @@ _图中最后的地址要记录一下，方便后面操作_
 
 #### &#x20;       4. 上一步图中最后的链接，即合约地址，可复制后新打开网页粘贴进去，查看合约状态，如果Contract标签处显示绿勾，即进行后续步骤，否则需要等待
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (4).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       5. 删除 <mark style="color:red;">.env</mark>（此步非常重要！！！）
 
@@ -300,7 +300,7 @@ _图中最后的地址要记录一下，方便后面操作_
 
 #### &#x20;       1. 选中Contract，点Write contract，点击connect to web3，链接小狐狸
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (4).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _选Metamask后，页面会弹出一个消息框，点确认即可_
@@ -308,7 +308,7 @@ _选Metamask后，页面会弹出一个消息框，点确认即可_
 
 #### &#x20;       2. 点击第四个功能mint下的write，在小狐狸中确认
 
-&#x20;                                                   ![](<../.gitbook/assets/image (1).png>)
+&#x20;                                                   ![](<../.gitbook/assets/image (1) (1).png>)
 
 &#x20;                                               ![](<../.gitbook/assets/image (79).png>)
 
@@ -318,19 +318,19 @@ _选Metamask后，页面会弹出一个消息框，点确认即可_
 
 &#x20;            1）然后
 
-&#x20;                                                ![](<../.gitbook/assets/image (72).png>)
+&#x20;                                                ![](<../.gitbook/assets/image (72) (2).png>)
 
 &#x20;           2）再点击mint处旁边的 View your transaction，查看合约
 
-&#x20;                                                ![](<../.gitbook/assets/image (6).png>)
+&#x20;                                                ![](<../.gitbook/assets/image (6) (1).png>)
 
 &#x20;           3）此时合约交互应还在处理中，右上角会滚动出现点
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           4）成功后，应类似下面
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;        4. 此时可进入 [https://testnets.opensea.io/zh-CN](https://testnets.opensea.io/zh-CN) ， 右上角登录自己钱包，选”个人资料“查看已有NFT，即可看到最新mint的NFT
 
@@ -348,7 +348,7 @@ _本教程代码是画了一个苹果的NFT_
 
 #### &#x20;       6. 再次走一遍3-4步骤的流程，此时点进NFT中，点击 刷新元数据
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (3).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;            等待10秒后，刷新页面，会看见数字从0变成1
 
@@ -375,7 +375,7 @@ _切记删除与私钥相关的东西_
 &#x20;            2）github地址
 
 {% hint style="info" %}
-_<mark style="color:red;">合约地址</mark> 在第三部分查看，点_ [_<mark style="color:red;">此处</mark>_](../preparation/ren-wu-zhun-bei-zuo-qian-bi-kan.md) _到任务提交部分_
+_<mark style="color:red;">合约地址</mark> 在第三部分查看，点_ [_<mark style="color:red;">此处</mark>_](../preparation/ren-wu-ti-jiao-ren-wu-wan-cheng-shi-kan.md) _到任务提交部分_
 
 _（若找不到合约地址，请参看_ [_<mark style="color:red;">任务中所用平台和工具</mark>_](../preparation/ren-wu-zhong-suo-yong-ping-tai-he-gong-ju.md) _中钱包相关部分的如何寻找合约地址）_
 {% endhint %}

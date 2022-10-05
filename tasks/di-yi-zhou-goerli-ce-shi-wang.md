@@ -38,13 +38,13 @@ _记得将钱包切换到_ <mark style="color:red;"></mark> <mark style="color:r
 
 <figure><img src="../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;                                                         ![](<../.gitbook/assets/image (35).png>)
+&#x20;                                                         ![](<../.gitbook/assets/image (35) (1).png>)
 
 &#x20;           2）点击进入刚创建的Bucket，单击右上的 _<mark style="color:red;">Upload</mark>_ 按钮 ，然后上传您要用于 NFT 的图像
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -224,7 +224,7 @@ _uri 填入_ _<mark style="color:red;">ipfs://准备工作部分metadata.json的
 
 #### &#x20;       3. 将钱包地址复制并粘贴到 _<mark style="color:red;">balanceOf</mark>_ 方法输入中点击call，它应该显示您有 1 个 NFT
 
-&#x20;                                             ![](<../.gitbook/assets/image (30) (1).png>)
+&#x20;                                             ![](<../.gitbook/assets/image (30) (1) (1).png>)
 
 #### &#x20;       4. 在tokenUri 插入“0”作为 id 参数，点击call，它应该显示你的 tokenURI
 
@@ -276,7 +276,7 @@ walletMints[msg.sender]++;
 
 &#x20;            如图：
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _上面 <mark style="color:red;">walletLimt</mark> 的值可以自行修改，后面测试符合此值即可_

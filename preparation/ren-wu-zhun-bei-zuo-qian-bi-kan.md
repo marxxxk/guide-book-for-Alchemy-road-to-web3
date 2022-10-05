@@ -44,7 +44,7 @@ _**特别说明：** 鉴于很多朋友反馈，本地环境配置对新手的�
 
 &#x20;               a. 如页面中间出现下图，则选择“Create repository”，然后到3）
 
-<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;               b. 如页面中间出现下图，选“Repository”，然后到2）
 
@@ -60,11 +60,11 @@ _**特别说明：** 鉴于很多朋友反馈，本地环境配置对新手的�
 _repository名字根据每周任务改变，<mark style="color:red;">可以自定义</mark>，比如正准备做第二周任务，可命名为road2web3week2_
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           4\) 设置好后，会自动进入对应的repository，复制红圈处地址
 
-<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _a. 以上1-4步骤连同每周任务的第一步来做_
@@ -94,7 +94,7 @@ _b. <mark style="color:red;">复制的地址</mark>是任务最后提交所需_
 
 &#x20;           5）等一小段时间，会回到下图页面，再次点击红圈处（显示已与前不同）
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           6）弹出新网页，会到下图页面，先选图中“only select repositories”，再选“All repositories”，才会让“Save”按钮变亮，直接点击
 
@@ -105,7 +105,7 @@ _a.3-6只用最开始关联时做，后面不用重复做_
 
 _b.若有人遇到下图情形，说明 <mark style="color:red;">GitHub账号下未存在任何repository</mark>，需要去先创建一个新的repository，再通过第5步进来，即会出现上图_
 
-__![](<../.gitbook/assets/image (16) (1).png>)__
+__![](<../.gitbook/assets/image (16) (1) (1).png>)__
 {% endhint %}
 
 &#x20;           __            7）再次回到下图页面，表示replit已与github链接上，为每周任务做好准备

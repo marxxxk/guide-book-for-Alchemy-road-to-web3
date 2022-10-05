@@ -111,7 +111,7 @@ _b. 必须填写中间红圈处的上传说明内容，才可点击commit all & 
 
 #### &#x20;       2. 会等待大约几分钟，才能上传到Github。只要显示没有新的改变了，就表示完成
 
-&#x20;                                   ![](<../.gitbook/assets/image (17) (1).png>)
+&#x20;                                   ![](<../.gitbook/assets/image (17) (1) (1).png>)
 
 #### &#x20;       3. 完成后，可切换至Github上对应的repository页面，刷新即可看见最新上传的内容
 
@@ -141,7 +141,7 @@ _也有朋友遇到不在右上角的情况，如下寻找即可_
 
 <figure><img src="../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (25) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
