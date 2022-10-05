@@ -78,7 +78,7 @@ _b. <mark style="color:red;">复制的地址</mark>是任务最后提交所需_
 
 &#x20;           1）在自己页面左上点击“create“
 
-<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           2）在弹出页面选择右上的“import from github”
 
@@ -90,7 +90,7 @@ _b. <mark style="color:red;">复制的地址</mark>是任务最后提交所需_
 
 &#x20;           4）若前面保持了github的登录，则直接点如下图红圈处，否则 会进入github登录界面重新登录，然后再次回到上一步操作
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           5）等一小段时间，会回到下图页面，再次点击红圈处（显示已与前不同）
 
@@ -98,7 +98,7 @@ _b. <mark style="color:red;">复制的地址</mark>是任务最后提交所需_
 
 &#x20;           6）弹出新网页，会到下图页面，先选图中“only select repositories”，再选“All repositories”，才会让“Save”按钮变亮，直接点击
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _a.3-6只用最开始关联时做，后面不用重复做_
@@ -114,7 +114,7 @@ __![](<../.gitbook/assets/image (16) (1).png>)__
 
 &#x20;           8）然后在图中红圈处粘贴前面 [第4步](ren-wu-zhun-bei-zuo-qian-bi-kan.md#4.-deng-lu-dao-zi-ji-de-github-ye-mian-chuang-jian-dui-ying-ren-wu-zhou-de-repository-liu-cheng-ru-x) 中复制的github地址
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           9）会变成下图所示，然后点击“Import from github”
 
@@ -126,7 +126,7 @@ _也可通过刷新网页，选择下拉菜单中最新的_
 
 &#x20;           10）进去项目后，在右边如下图所示，点击“Done”&#x20;
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       7. 这样准备工作就基本完成了，接着可以先看 任务中所用平台和工具
 

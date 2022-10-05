@@ -21,7 +21,7 @@ _c. 如果一个账号已构建5个APP，请及时更换到另一个账户（此
 
 #### &#x20;       2. 登录Alchemy账号，选中 dashboard ，点击 Create App
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       3. 弹出页面上填写名字、选好网络等，点击create app
 
@@ -29,7 +29,7 @@ _c. 如果一个账号已构建5个APP，请及时更换到另一个账户（此
 NAME处根据任务来命名
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       4. 创建成功后，点击 VIEW KEY
 
@@ -37,7 +37,7 @@ NAME处根据任务来命名
 
 #### &#x20;       5. 复制两个红框的内容，<mark style="color:red;">HTTPS</mark> 和 <mark style="color:red;">API KEY</mark> ，用于任务
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -51,7 +51,7 @@ NAME处根据任务来命名
 
 #### &#x20;           2. 点击 导出私钥
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;           3. 复制红框中内容，用于任务
 
@@ -59,7 +59,7 @@ NAME处根据任务来命名
 _建议采用_ [_<mark style="color:red;">任务准备</mark>_](ren-wu-zhun-bei-zuo-qian-bi-kan.md) _中重要提醒里的小技巧_
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
 * [x] **从Metamask钱包查询智能合约**
 
@@ -73,11 +73,11 @@ _建议采用_ [_<mark style="color:red;">任务准备</mark>_](ren-wu-zhun-bei-
 
 &#x20;               1）进去后选择 网络
 
-&#x20;                                                    ![](<../.gitbook/assets/image (18).png>)&#x20;
+&#x20;                                                    ![](<../.gitbook/assets/image (18) (1).png>)&#x20;
 
 &#x20;               2）选择对应的网络，进行设置（比如Optimism Goerli）
 
-&#x20;                                                    ![](<../.gitbook/assets/image (4).png>)
+&#x20;                                                    ![](<../.gitbook/assets/image (4) (2).png>)
 
 &#x20;               3）修改区块浏览器地址后，点击 保存
 
@@ -101,7 +101,7 @@ _图中左上是钱包地址。 Contract Creation就是最新创建的合约，�
 
 #### &#x20;       1. 在具体项目页面，点击左边栏第二个 版本控制
 
-&#x20;                                              ![](<../.gitbook/assets/image (26).png>)
+&#x20;                                              ![](<../.gitbook/assets/image (26) (1).png>)
 
 {% hint style="info" %}
 _a. 需要等一小会，才会出现下拉菜单，选commit all & push_
@@ -111,7 +111,7 @@ _b. 必须填写中间红圈处的上传说明内容，才可点击commit all & 
 
 #### &#x20;       2. 会等待大约几分钟，才能上传到Github。只要显示没有新的改变了，就表示完成
 
-&#x20;                                   ![](<../.gitbook/assets/image (17).png>)
+&#x20;                                   ![](<../.gitbook/assets/image (17) (1).png>)
 
 #### &#x20;       3. 完成后，可切换至Github上对应的repository页面，刷新即可看见最新上传的内容
 
@@ -125,7 +125,7 @@ _发布前切记删除一切和私钥相关的文件_
 
 #### &#x20;       1. 在具体项目页面，右上角点击 publish
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _也有朋友遇到不在右上角的情况，如下寻找即可_
@@ -135,17 +135,17 @@ _也有朋友遇到不在右上角的情况，如下寻找即可_
 
 #### &#x20;       2.  弹出页面的第一页，红圈处必须填写才能进入下一页
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       3. 后面一路next到最后一页，勾上 做成模板，点击 publish
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       4. 最后弹出页面，记录下红框处地址，可用于任务提交
 
