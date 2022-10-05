@@ -44,7 +44,7 @@ _**特别说明：** 鉴于很多朋友反馈，本地环境配置对新手的�
 
 &#x20;               a. 如页面中间出现下图，则选择“Create repository”，然后到3）
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;               b. 如页面中间出现下图，选“Repository”，然后到2）
 

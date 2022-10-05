@@ -34,7 +34,7 @@ coverY: 0
 
 #### &#x20;       2. 输入：mkdir BuyABCACoffee-contracts，回车
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       3. 输入：cd BuyABCACoffee-contracts ，回车
 
@@ -42,7 +42,7 @@ coverY: 0
 
 #### &#x20;       4. 输入： npm init -y ，回车
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       5. 输入： npx hardhat ， 回车(中间选择直接回车，有好几个)
 
@@ -56,11 +56,11 @@ _会出现不少 <mark style="color:yellow;">WARN</mark> ，不用管。除非�
 
 #### &#x20;       6. 输入： npm install --save-dev @nomiclabs/hardhat-waffle ， 回车
 
-<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (36) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       7. 输入： npm install dotenv ， 回车
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       8. 左边栏点开contracts目录，把Lock.sol改名成BuyABCACoffee.sol
 
@@ -160,7 +160,7 @@ contract BuyABCACoffee {
 
 #### &#x20;       10. 点击scripts目录鼠标右键或者左键点击3个点处，选“Add file”，输入buycoffee.js，流程如图
 
-&#x20;                                                       ![](<../.gitbook/assets/image (73).png>)
+&#x20;                                                       ![](<../.gitbook/assets/image (73) (1).png>)
 
 &#x20;                                                      ![](<../.gitbook/assets/image (58).png>)
 
@@ -274,7 +274,7 @@ main()
 
 #### &#x20;       13. 点击scripts目录鼠标右键或者左键点击3个点处，选“Add file”，输入withdraw.js，流程如图
 
-&#x20;                                             ![](<../.gitbook/assets/image (6).png>)
+&#x20;                                             ![](<../.gitbook/assets/image (6) (2).png>)
 
 &#x20;                                             ![](<../.gitbook/assets/image (37).png>)
 
@@ -370,9 +370,9 @@ module.exports = {
 _**注意:**  .env此文件最前面有小数点_
 {% endhint %}
 
-&#x20;                                          ![](<../.gitbook/assets/image (23).png>)
+&#x20;                                          ![](<../.gitbook/assets/image (23) (2).png>)
 
-&#x20;                                          ![](<../.gitbook/assets/image (19).png>)
+&#x20;                                          ![](<../.gitbook/assets/image (19) (2).png>)
 
 #### &#x20;       17. 回车后，跳到内容，复制以下内容进去（记得保存）
 
@@ -400,11 +400,11 @@ _将上面3项依次替换成前面_ [_准备工作_](di-er-zhou-goerli-ce-shi-w
 
 #### &#x20;       2. 输入： npx hardhat run scripts/deploy.js ，回车
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       3. 输入： npx hardhat run scripts/deploy.js --network goerli ，回车
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _这时部署到Goerli测试网了，记录一下_ _<mark style="color:red;">deployed to</mark>_ <mark style="color:red;"></mark><mark style="color:red;"></mark> _后面的地址，一会就用到_
@@ -426,7 +426,7 @@ _中间的 <mark style="color:red;">0.004 ETH</mark> 是不固定的，有些会
 
 #### &#x20;       5. 删除.env（<mark style="color:red;">此步非常重要！！！</mark>）
 
-&#x20;                                             ![](<../.gitbook/assets/image (26).png>)
+&#x20;                                             ![](<../.gitbook/assets/image (26) (3).png>)
 
 
 
@@ -450,9 +450,9 @@ _此目录名可以自命名，后续需保持与此一致。_
 _创建的目录可能需要等一小段时间才会在左边栏显示出来_
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (66) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (64) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       3. 进入目录，输入： cd buyabcacoffee-dapp ，回车
 
@@ -474,7 +474,7 @@ _创建的目录可能需要等一小段时间才会在左边栏显示出来_
 
 #### &#x20;       7. 点击utils右边三个点，选择“Add file“，将第5步复制的文件名粘贴，并加上.json后缀，回车
 
-&#x20;                                    ![](<../.gitbook/assets/image (72).png>)
+&#x20;                                    ![](<../.gitbook/assets/image (72) (1).png>)
 
 &#x20;                                 ![](<../.gitbook/assets/image (65).png>)
 
@@ -484,13 +484,13 @@ _创建的目录可能需要等一小段时间才会在左边栏显示出来_
 
 #### &#x20;       9. 点开 pages 目录，点击 \_app.js文件右边3点，选rename，改成 <mark style="color:red;">\_app.jsx</mark>
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       10. 点击 index.js 文件右边3点，选rename，改成 <mark style="color:red;">index.jsx</mark>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
@@ -1054,7 +1054,7 @@ _图片可去_ [_https://www.pexels.com/zh-cn/_](https://www.pexels.com/zh-cn/) 
 
 &#x20;                     然后
 
-&#x20;                                                ![](<../.gitbook/assets/image (7).png>)
+&#x20;                                                ![](<../.gitbook/assets/image (7) (2).png>)
 
 
 
@@ -1066,7 +1066,7 @@ _运行前，多检查代码文件内容，有时会出现内容消失或者恢�
 
 #### &#x20;       1. 点击左边栏最上面Files右边的三个点，选择“show hidden files“,会看到一个叫.replit的文件
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       2. 点击.replit，跳到内容，复制以下内容进去（记得保存）
 
@@ -1077,7 +1077,7 @@ entrypoint = './buyabcacoffee-dapp/pages/index.jsx'
 
 #### &#x20;       3. 点击最上面中间的RUN，运行Dapp，等待一段时间即会出现页面示意
 
-<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (47) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           1）然后显示出下面即成功（console的提示可能会更多一些，只要不是error，都正常）
 
@@ -1085,11 +1085,11 @@ entrypoint = './buyabcacoffee-dapp/pages/index.jsx'
 
 #### &#x20;       4. 复制上图中的 https 链接，新开一个网页打开它
 
-<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (61) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           1）点击 Connect your wallet ，选择钱包进行连接，连接好后
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (30) (2).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           2）输入 名字，以及想发送的话，点击 Send 1 Coffee for 0.001 ETH，确认gas
 
@@ -1097,17 +1097,17 @@ entrypoint = './buyabcacoffee-dapp/pages/index.jsx'
 
 &#x20;            3）等待合约交互，可从metamask的活动里查看
 
-&#x20;                                           ![](<../.gitbook/assets/image (67).png>)
+&#x20;                                           ![](<../.gitbook/assets/image (67) (1).png>)
 
 &#x20;            4）成功后，活动成功，memo也会展示出最新信息
 
-&#x20;                                            ![](<../.gitbook/assets/image (2).png>)
+&#x20;                                            ![](<../.gitbook/assets/image (2) (1).png>)
 
 &#x20;                                            ![](<../.gitbook/assets/image (13).png>)
 
 #### &#x20;       5. 从Metamask上进入区块浏览器，可查看最新合约的相关信息
 
-&#x20;                                              ![](../.gitbook/assets/image.png)
+&#x20;                                              ![](<../.gitbook/assets/image (66).png>)
 
 <figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 

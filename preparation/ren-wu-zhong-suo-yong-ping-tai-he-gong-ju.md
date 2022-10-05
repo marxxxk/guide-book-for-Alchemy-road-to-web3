@@ -51,7 +51,7 @@ NAME处根据任务来命名
 
 #### &#x20;           2. 点击 导出私钥
 
-<figure><img src="../.gitbook/assets/image (15) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;           3. 复制红框中内容，用于任务
 
@@ -59,7 +59,7 @@ NAME处根据任务来命名
 _建议采用_ [_<mark style="color:red;">任务准备</mark>_](ren-wu-zhun-bei-zuo-qian-bi-kan.md) _中重要提醒里的小技巧_
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * [x] **从Metamask钱包查询智能合约**
 
@@ -91,7 +91,7 @@ _图中左上是钱包地址。 Contract Creation就是最新创建的合约，�
 
 <figure><img src="../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -130,7 +130,7 @@ _发布前切记删除一切和私钥相关的文件_
 {% hint style="info" %}
 _也有朋友遇到不在右上角的情况，如下寻找即可_
 
-![](<../.gitbook/assets/image (28).png>)
+![](<../.gitbook/assets/image (28) (1).png>)
 {% endhint %}
 
 #### &#x20;       2.  弹出页面的第一页，红圈处必须填写才能进入下一页

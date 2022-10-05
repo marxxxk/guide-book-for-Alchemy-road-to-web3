@@ -22,7 +22,7 @@ coverY: 0
 
 &#x20;           2）填写 Goerli 网络和 前面在Alchemy上生成的RPC URL 信息，并保存
 
-&#x20;                                                    ![](<../.gitbook/assets/image (33) (1).png>)
+&#x20;                                                    ![](<../.gitbook/assets/image (33) (1) (1).png>)
 
 {% hint style="info" %}
 _记得将钱包切换到_ <mark style="color:red;"></mark> <mark style="color:red;"></mark>_<mark style="color:red;">Alchemy</mark>_ <mark style="color:red;"></mark><mark style="color:red;"></mark> <mark style="color:red;"></mark>_<mark style="color:red;">Goerli测试网</mark>_
@@ -122,7 +122,7 @@ _b. 将上一步复制的URL，粘贴替换下面的 ”image“后面_
 
 &#x20;           6）上传成功后，复制一下metadata.json的 _<mark style="color:red;">CID</mark>_，后面需要用到
 
-<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (45) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -134,7 +134,7 @@ _b. 将上一步复制的URL，粘贴替换下面的 ”image“后面_
 
 #### &#x20;       2. 点击左上角 ERC721 按钮，输入 Name 和 Symbol
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;      3. 勾选如下的NFT功能
 
@@ -142,11 +142,11 @@ _b. 将上一步复制的URL，粘贴替换下面的 ”image“后面_
 
 #### &#x20;       4. 在 OpenZeppelin Wizard 编辑器的顶部，点击“Open in Remix”按钮，在浏览器的新选项卡中打开 REMIX IDE
 
-<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (39) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       5. 打开后，等一小会会自动跳到智能合约代码界面
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (2).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           1）在第14行填入 <mark style="color:red;">uint256 MAX\_SUPPLY = 100000;</mark>
 
@@ -158,7 +158,7 @@ _b. 将上一步复制的URL，粘贴替换下面的 ”image“后面_
 
 &#x20;           3）在第19行添加 <mark style="color:red;">require(\_tokenIdCounter.current() <= MAX\_SUPPLY, "I'm sorry we reached the cap");</mark>
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -186,7 +186,7 @@ _点击 <mark style="color:red;">Deploy</mark>_
 
 #### &#x20;       4. 如果一切都按预期工作，大约20 秒后，您应该会在左下的 _<mark style="color:red;">Deployed Contracts</mark>_ 处看到该合约
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _若部署合约出现下面类似的错，请检查钱包的网络是否选对_
@@ -216,7 +216,7 @@ _to 填入 <mark style="color:red;">你的钱包地址</mark>_
 _uri 填入_ _<mark style="color:red;">ipfs://准备工作部分metadata.json的CID</mark>_
 {% endhint %}
 
-&#x20;                                            ![](<../.gitbook/assets/image (20) (1).png>)
+&#x20;                                            ![](<../.gitbook/assets/image (20) (1) (2).png>)
 
 &#x20;           1）点击transact，会花一点手续费，等一会成功了会在右侧显示绿勾
 
@@ -240,7 +240,7 @@ _由于_ [_https://testnets.opensea.io/_](https://testnets.opensea.io/) _目前�
 
 #### &#x20;       1. 进入 [https://goerli.pixxiti.com/](https://goerli.pixxiti.com/) ，登录自己钱包，然后单击 _<mark style="color:red;">View your NFTs</mark>_ ，您应该会在那里看到您新铸造的 NFT
 
-<figure><img src="../.gitbook/assets/image (23) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           1）红圈图片为刚mint的图片
 
@@ -286,11 +286,11 @@ _上面 <mark style="color:red;">walletLimt</mark> 的值可以自行修改，�
 
 &#x20;           1）此处测试需结合上一步设置的 walletLimit 数量。比如设置为2，在to地址和url不改变的情况下，当连续mint成功两次后，查看Metamask上的活动
 
-&#x20;                                                 ![](<../.gitbook/assets/image (17) (2).png>)
+&#x20;                                                 ![](<../.gitbook/assets/image (17) (2) (1).png>)
 
 &#x20;            2）第三次点transact就会出现以下错误（红框处和代码中的提醒一致）
 
-<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 如何证明完成了额外挑战：&#x20;
