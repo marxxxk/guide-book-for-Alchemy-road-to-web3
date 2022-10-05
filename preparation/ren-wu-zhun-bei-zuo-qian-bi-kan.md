@@ -80,7 +80,7 @@ _b. <mark style="color:red;">复制的地址</mark>是任务最后提交所需_
 
 &#x20;           2）在弹出页面选择右上的“import from github”
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           3）继续点击红圈处
 
@@ -108,7 +108,7 @@ __![](<../.gitbook/assets/image (16).png>)__
 
 &#x20;           __            7）再次回到下图页面，表示replit已与github链接上，为每周任务做好准备
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           8）然后在图中红圈处粘贴前面 [第4步](ren-wu-zhun-bei-zuo-qian-bi-kan.md#4.-deng-lu-dao-zi-ji-de-github-ye-mian-chuang-jian-dui-ying-ren-wu-zhou-de-repository-liu-cheng-ru-x) 中复制的github地址
 
