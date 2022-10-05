@@ -1,5 +1,7 @@
 ---
 description: 重要提醒必须看。除了第一周和第五周，其他周任务都需要做前序步骤
+cover: ../.gitbook/assets/prepare-cover.jpg
+coverY: -346.83469721767597
 ---
 
 # 任务准备（做前必看）
@@ -50,7 +52,7 @@ _**特别说明：** 鉴于很多朋友反馈，本地环境配置对新手的�
 
 &#x20;           2\) 再选“New”
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           3\) 设置好repository的名字，勾上“Add a README file”，点“Create repository”
 
@@ -58,11 +60,11 @@ _**特别说明：** 鉴于很多朋友反馈，本地环境配置对新手的�
 _repository名字根据每周任务改变，<mark style="color:red;">可以自定义</mark>，比如正准备做第二周任务，可命名为road2web3week2_
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           4\) 设置好后，会自动进入对应的repository，复制红圈处地址
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _a. 以上1-4步骤连同每周任务的第一步来做_
@@ -76,7 +78,7 @@ _b. <mark style="color:red;">复制的地址</mark>是任务最后提交所需_
 
 &#x20;           1）在自己页面左上点击“create“
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           2）在弹出页面选择右上的“import from github”
 
@@ -84,7 +86,7 @@ _b. <mark style="color:red;">复制的地址</mark>是任务最后提交所需_
 
 &#x20;           3）继续点击红圈处
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           4）若前面保持了github的登录，则直接点如下图红圈处，否则 会进入github登录界面重新登录，然后再次回到上一步操作
 
@@ -92,31 +94,31 @@ _b. <mark style="color:red;">复制的地址</mark>是任务最后提交所需_
 
 &#x20;           5）等一小段时间，会回到下图页面，再次点击红圈处（显示已与前不同）
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           6）弹出新网页，会到下图页面，先选图中“only select repositories”，再选“All repositories”，才会让“Save”按钮变亮，直接点击
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _a.3-6只用最开始关联时做，后面不用重复做_
 
 _b.若有人遇到下图情形，说明 <mark style="color:red;">GitHub账号下未存在任何repository</mark>，需要去先创建一个新的repository，再通过第5步进来，即会出现上图_
 
-__![](<../.gitbook/assets/image (16).png>)__
+__![](<../.gitbook/assets/image (16) (1).png>)__
 {% endhint %}
 
 &#x20;           __            7）再次回到下图页面，表示replit已与github链接上，为每周任务做好准备
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           8）然后在图中红圈处粘贴前面 [第4步](ren-wu-zhun-bei-zuo-qian-bi-kan.md#4.-deng-lu-dao-zi-ji-de-github-ye-mian-chuang-jian-dui-ying-ren-wu-zhou-de-repository-liu-cheng-ru-x) 中复制的github地址
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           9）会变成下图所示，然后点击“Import from github”
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _也可通过刷新网页，选择下拉菜单中最新的_
