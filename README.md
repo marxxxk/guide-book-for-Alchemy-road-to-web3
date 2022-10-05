@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FucyxOEv157K0P0ivHFDn%2Fuploads%2FnAthIk61XvfQSz7QX3cd%2F7561189dd22081906ceb5e3af586a379.png?alt=media&token=42ede1b2-a32c-42ba-a1d0-27c26baa156f
+coverY: 0
+---
+
 # - Alchemy介绍 -
 
 ### Alchemy是什么项目？
