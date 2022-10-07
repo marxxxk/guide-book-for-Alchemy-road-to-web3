@@ -351,13 +351,13 @@ _若出现下图错误，则很可能当前钱包网络不是eth goerli测试网
 
 &#x20;           3）成功后，会在左下角显示合约，点击复制
 
-&#x20;                                          ![](<../.gitbook/assets/image (12).png>)
+&#x20;                                          ![](<../.gitbook/assets/image (12) (1).png>)
 
 #### &#x20;       2. 回到 [准备工作](di-wu-zhou-goerli-ce-shi-wang.md#yi-zhun-bei-gong-zuo) 留着的 Chainlink 页面
 
 &#x20;           1）将复制的合约地址添加进Consumer
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           2）同样会消耗一点gas
 
@@ -373,21 +373,21 @@ _若出现下图错误，则很可能当前钱包网络不是eth goerli测试网
 
 #### &#x20;       1. 点开合约地址
 
-&#x20;                                             ![](<../.gitbook/assets/image (11).png>)
+&#x20;                                             ![](<../.gitbook/assets/image (11) (1).png>)
 
 #### &#x20;       2. 测试获取随机数
 
 &#x20;           1）点击 _<mark style="color:red;">requestRandomWords</mark>_ 方法来获取随机数，然后等Metamask确定交易完成
 
-&#x20;                                              ![](<../.gitbook/assets/image (13).png>)
+&#x20;                                              ![](<../.gitbook/assets/image (13) (1).png>)
 
 &#x20;            2）确认后，大约需要等1分钟，右边若显示绿勾则表示获取成功
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           3）选到 _<mark style="color:red;">s\_randomWords</mark>_ ，点开输入0，点击Call。若成功，则会显示出 _<mark style="color:red;">随机数</mark>_
 
-&#x20;                                             ![](<../.gitbook/assets/image (15).png>)
+&#x20;                                             ![](<../.gitbook/assets/image (15) (1).png>)
 
 {% hint style="info" %}
 _a.随机数需要等好一会点call才会出现，否则会一直显示类似_
@@ -407,15 +407,15 @@ _b.可重复上面的操作，点击 <mark style="color:red;">requestRandomWords
 
 &#x20;           1）点开 _<mark style="color:red;">safeMint</mark>_ ，填入钱包地址，点击 transact
 
-&#x20;                                              ![](<../.gitbook/assets/image (1).png>)
+&#x20;                                              ![](<../.gitbook/assets/image (1) (1).png>)
 
 &#x20;           2）同样要消耗一点gas，直到右边出现绿勾
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           3）mint成功以后，我们在 _<mark style="color:red;">tokenURI</mark>_ 这边输入0，点击 call，来获取我们mint的NFT的元数据信息，应是前面代码中3个之一
 
-&#x20;                                                ![](<../.gitbook/assets/image (4).png>)
+&#x20;                                                ![](<../.gitbook/assets/image (4) (1).png>)
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -431,11 +431,11 @@ _这里填的是Link与ETH预言的合约地址，经查阅为_
 _（可在_ [_https://docs.chain.link/docs/data-feeds/price-feeds/addresses/?network=ethereum_](https://docs.chain.link/docs/data-feeds/price-feeds/addresses/?network=ethereum) _上去查询）_
 {% endhint %}
 
-&#x20;                                          ![](<../.gitbook/assets/image (6).png>)
+&#x20;                                          ![](<../.gitbook/assets/image (6) (1).png>)
 
 &#x20;           2）同样消耗一点gas，成功会出现绿勾
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           3）点击一下 _<mark style="color:red;">getLatestPrice</mark>_ 方法，可以看到int256后面就是最新的以太坊价格，其中前4位是个位数，后面8位为小数，这是因为以太坊不支持小数，所以价格就不包含小数点
 
@@ -443,11 +443,11 @@ _（可在_ [_https://docs.chain.link/docs/data-feeds/price-feeds/addresses/?net
 
 &#x20;           4）在 _<mark style="color:red;">performUpkeep</mark>_ 方法的参数里输入“\[]”，点击 call，手动来触发价格更新方法
 
-&#x20;                                             ![](<../.gitbook/assets/image (17).png>)
+&#x20;                                             ![](<../.gitbook/assets/image (17) (1).png>)
 
 &#x20;           5\)  上一步方法里也会更新我们的NFT元数据，再次点击 _<mark style="color:red;">tokenURI</mark>_ 处的 call，获取Token Id 为0的NFT的元数据
 
-&#x20;                                             ![](<../.gitbook/assets/image (7).png>)
+&#x20;                                             ![](<../.gitbook/assets/image (7) (1).png>)
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 

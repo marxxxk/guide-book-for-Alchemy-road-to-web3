@@ -61,6 +61,18 @@ _建议采用_ [_<mark style="color:red;">任务准备</mark>_](ren-wu-zhun-bei-
 
 <figure><img src="../.gitbook/assets/image (7) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
+* [x] **如何添加新网络**
+
+#### &#x20;       1. 点开metamask，选择最上面的网络，然后选“添加网络”
+
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+
+#### &#x20;       2. 输入项类似下图，根据具体网络而不同，点保存
+
+<figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+
+
+
 * [x] **从Metamask钱包查询智能合约**
 
 #### &#x20;           1. 点开 Metamask，选好 <mark style="color:red;">对应的网络</mark>，再点账号旁边3个点，点击 <mark style="color:red;">在资源浏览器中查看</mark>
@@ -135,11 +147,11 @@ _也有朋友遇到不在右上角的情况，如下寻找即可_
 
 #### &#x20;       2.  弹出页面的第一页，红圈处必须填写才能进入下一页
 
-<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       3. 后面一路next到最后一页，勾上 做成模板，点击 publish
 
-<figure><img src="../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (14) (1) (2).png" alt=""><figcaption></figcaption></figure>
 

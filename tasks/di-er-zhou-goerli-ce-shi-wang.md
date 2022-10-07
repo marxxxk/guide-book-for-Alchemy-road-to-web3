@@ -70,7 +70,7 @@ _注意：文件名需与前面创建的目录前缀一致_
 
 &#x20;                                                 ![](<../.gitbook/assets/image (46).png>)
 
-&#x20;                                                 ![](<../.gitbook/assets/image (50).png>)
+&#x20;                                                 ![](<../.gitbook/assets/image (50) (1).png>)
 
 &#x20;                                                ![](<../.gitbook/assets/image (60).png>)
 
@@ -162,7 +162,7 @@ contract BuyABCACoffee {
 
 &#x20;                                                       ![](<../.gitbook/assets/image (73) (1).png>)
 
-&#x20;                                                      ![](<../.gitbook/assets/image (58).png>)
+&#x20;                                                      ![](<../.gitbook/assets/image (58) (1).png>)
 
 #### &#x20;       11. 输入后回车，自动到内容，复制以下内容
 
@@ -276,7 +276,7 @@ main()
 
 &#x20;                                             ![](<../.gitbook/assets/image (6) (2).png>)
 
-&#x20;                                             ![](<../.gitbook/assets/image (37).png>)
+&#x20;                                             ![](<../.gitbook/assets/image (37) (2).png>)
 
 #### &#x20;       14. 回车后，跳到内容，复制以下进去（记得保存）
 
@@ -396,7 +396,7 @@ _将上面3项依次替换成前面_ [_准备工作_](di-er-zhou-goerli-ce-shi-w
 
 #### &#x20;       1. 点击“Shell”，输入： npx hardhat run scripts/buycoffee.js ，回车
 
-<figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (68) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       2. 输入： npx hardhat run scripts/deploy.js ，回车
 
@@ -418,7 +418,7 @@ _这时部署到Goerli测试网了，记录一下_ _<mark style="color:red;">dep
 
 #### &#x20;        4. 输入： npx hardhat run scripts/withdraw.js ， 回车
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _中间的 <mark style="color:red;">0.004 ETH</mark> 是不固定的，有些会出现 0.000_
@@ -450,13 +450,13 @@ _此目录名可以自命名，后续需保持与此一致。_
 _创建的目录可能需要等一小段时间才会在左边栏显示出来_
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (66) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (66) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (64) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       3. 进入目录，输入： cd buyabcacoffee-dapp ，回车
 
-<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (52) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       4. 输入： npm install --save ethers ， 回车
 
@@ -476,7 +476,7 @@ _创建的目录可能需要等一小段时间才会在左边栏显示出来_
 
 &#x20;                                    ![](<../.gitbook/assets/image (72) (1).png>)
 
-&#x20;                                 ![](<../.gitbook/assets/image (65).png>)
+&#x20;                                 ![](<../.gitbook/assets/image (65) (1).png>)
 
 #### &#x20;       8. 将第5步中 <mark style="color:red;">BuyABCACoffee.json</mark> 的内容复制到 utils下面的同名文件中
 
@@ -1020,7 +1020,7 @@ a {
 
 &#x20;               背景图片，下载后重命名为 <mark style="color:red;">backimg2.jpg</mark>
 
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (40) (2).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;               <mark style="color:red;"></mark>                图片1，下载后重命名为 <mark style="color:red;">backimg1.jpg</mark>&#x20;
 
@@ -1028,7 +1028,7 @@ a {
 
 &#x20;               图片2，下载后重命名为 <mark style="color:red;">memo.png</mark>&#x20;
 
-&#x20;                                                ![](<../.gitbook/assets/image (22).png>)
+&#x20;                                                ![](<../.gitbook/assets/image (22) (2).png>)
 
 {% hint style="info" %}
 _也可以使用自己的图片，只是文件名一定要改成上面3个。_
@@ -1044,13 +1044,13 @@ _图片可去_ [_https://www.pexels.com/zh-cn/_](https://www.pexels.com/zh-cn/) 
 
 &#x20;            3）找到刚才下的三张图片，进行上传
 
-&#x20;                                                ![](<../.gitbook/assets/image (51).png>)
+&#x20;                                                ![](<../.gitbook/assets/image (51) (1).png>)
 
 &#x20;           4）上传后，将其拖动到buyabcacoffee-dapp/public目录下
 
 &#x20;                  一开始在这里，
 
-&#x20;                                                ![](<../.gitbook/assets/image (42).png>)
+&#x20;                                                ![](<../.gitbook/assets/image (42) (2).png>)
 
 &#x20;                     然后
 
@@ -1093,21 +1093,21 @@ entrypoint = './buyabcacoffee-dapp/pages/index.jsx'
 
 &#x20;           2）输入 名字，以及想发送的话，点击 Send 1 Coffee for 0.001 ETH，确认gas
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27) (2).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;            3）等待合约交互，可从metamask的活动里查看
 
-&#x20;                                           ![](<../.gitbook/assets/image (67) (1).png>)
+&#x20;                                           ![](<../.gitbook/assets/image (67) (1) (1).png>)
 
 &#x20;            4）成功后，活动成功，memo也会展示出最新信息
 
 &#x20;                                            ![](<../.gitbook/assets/image (2) (1) (1).png>)
 
-&#x20;                                            ![](<../.gitbook/assets/image (13) (1).png>)
+&#x20;                                            ![](<../.gitbook/assets/image (13) (1) (1).png>)
 
 #### &#x20;       5. 从Metamask上进入区块浏览器，可查看最新合约的相关信息
 
-&#x20;                                              ![](<../.gitbook/assets/image (66).png>)
+&#x20;                                              ![](<../.gitbook/assets/image (66) (1).png>)
 
 <figure><img src="../.gitbook/assets/image (48) (1).png" alt=""><figcaption></figcaption></figure>
 

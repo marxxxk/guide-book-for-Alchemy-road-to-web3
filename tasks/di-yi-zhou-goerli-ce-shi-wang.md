@@ -18,7 +18,7 @@ coverY: 0
 
 &#x20;           1）点开钱包，选择网络，点击 添加网络
 
-&#x20;                                                     ![](<../.gitbook/assets/image (34).png>)
+&#x20;                                                     ![](<../.gitbook/assets/image (34) (1).png>)
 
 &#x20;           2）填写 Goerli 网络和 前面在Alchemy上生成的RPC URL 信息，并保存
 
@@ -182,7 +182,7 @@ _点击 <mark style="color:red;">Deploy</mark>_
 
 #### &#x20;       3. 将出现 Metamask 弹出窗口，需支付一些 Gas 费用，单击“确认”
 
-<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (43) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       4. 如果一切都按预期工作，大约20 秒后，您应该会在左下的 _<mark style="color:red;">Deployed Contracts</mark>_ 处看到该合约
 

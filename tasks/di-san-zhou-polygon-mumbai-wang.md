@@ -22,15 +22,15 @@ coverY: 0
 
 &#x20;           1\) 进主页，选”sign in“
 
-<figure><img src="../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (73) (2).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           2\) 选”click to sign up“注册
 
-<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (64) (2).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           3） 填好下面红圈处，选create accout
 
-<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (36) (3).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           4）进到自己页面后，进入 <mark style="color:red;">API-KEYs</mark> ，点击ADD，添加完毕后将红框内字符串记录下来
 
@@ -44,7 +44,7 @@ coverY: 0
 
 &#x20;            2）钱包弹出窗口，选 批准
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           3）进入 [https://mumbaifaucet.com/](https://mumbaifaucet.com/) ，点击右上的 Alchemy login，用Alchemy账号登录，复制钱包地址，填入下图红框处，点 Send me Matic 即可获得0.5个Matic
 
@@ -60,25 +60,25 @@ coverY: 0
 
 #### &#x20;       1. 点击右边“Shell”，输入 npm init -y , 回车(中间出现选择时直接回车)
 
-<figure><img src="../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (80) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       2. 输入 mkdir ChainBattle , 回车；然后输入 cd ChainBattle ，回车
 
-<figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (78) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       3. 输入 npm init -y ，回车
 
-<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;        4. 输入 npm install hardhat ，回车
 
-<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       5. 输入 npx hardhat init ，回车（中间遇到选择停下来时全部回车）
 
 <figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       6. 输入 npm install @openzeppelin/contracts ，回车
 
@@ -86,11 +86,11 @@ coverY: 0
 
 #### &#x20;       7. 输入 npm install @nomiclabs/hardhat-etherscan ，回车
 
-<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       8. 输入 npm install @nomiclabs/hardhat-waffle ，回车
 
-<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (45) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       9. 输入 npm install dotenv ，回车
 
@@ -98,7 +98,7 @@ coverY: 0
 
 #### &#x20;       10. 左边栏点开ChainBattle下的contracts目录，把Lock.sol改名成ChainBattles.sol，流程如下
 
-&#x20;                                                    ![](<../.gitbook/assets/image (19).png>)
+&#x20;                                                    ![](<../.gitbook/assets/image (19) (3).png>)
 
 &#x20;                                                    ![](<../.gitbook/assets/image (82).png>)
 
@@ -236,7 +236,7 @@ module.exports = {
 
 &#x20;           2）输入 <mark style="color:red;">.env</mark> (文件名最前面有小数点)
 
-&#x20;                                           ![](<../.gitbook/assets/image (61).png>)
+&#x20;                                           ![](<../.gitbook/assets/image (61) (2).png>)
 
 &#x20;           3）回车后，自动跳到内容，复制以下内容进去
 
@@ -274,11 +274,11 @@ POLYGONSCAN\_API\_KEY=后面填写 [_<mark style="color:red;">准备工作</mark
 _出现最后那句才表示编译成功_
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (76) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;        2. 输入 npx hardhat run scripts/deploy.js --network mumbai ， 回车
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _图中最后的地址要记录一下，方便后面操作_
@@ -286,7 +286,7 @@ _图中最后的地址要记录一下，方便后面操作_
 
 #### &#x20;       3. 等待大约10秒后，输入 <mark style="color:red;">npx hardhat verify --network mumbai</mark> + <mark style="color:red;">上图中的地址</mark>  （+号并不需要，只是为了说明要跟在后面），回车
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       4. 上一步图中最后的链接，即合约地址，可复制后新打开网页粘贴进去，查看合约状态，如果Contract标签处显示绿勾，即进行后续步骤，否则需要等待
 
@@ -308,9 +308,9 @@ _选Metamask后，页面会弹出一个消息框，点确认即可_
 
 #### &#x20;       2. 点击第四个功能mint下的write，在小狐狸中确认
 
-&#x20;                                                   ![](<../.gitbook/assets/image (1) (1).png>)
+&#x20;                                                   ![](<../.gitbook/assets/image (1) (1) (5).png>)
 
-&#x20;                                               ![](<../.gitbook/assets/image (79).png>)
+&#x20;                                               ![](<../.gitbook/assets/image (79) (1).png>)
 
 #### &#x20;       3. 等待mint操作成功，可通过查看Metamask中的活动处，等待mint合约成功
 
@@ -322,7 +322,7 @@ _选Metamask后，页面会弹出一个消息框，点确认即可_
 
 &#x20;           2）再点击mint处旁边的 View your transaction，查看合约
 
-&#x20;                                                ![](<../.gitbook/assets/image (6) (1).png>)
+&#x20;                                                ![](<../.gitbook/assets/image (6) (1) (3).png>)
 
 &#x20;           3）此时合约交互应还在处理中，右上角会滚动出现点
 
@@ -344,7 +344,7 @@ _本教程代码是画了一个苹果的NFT_
 
 #### &#x20;        5. 回到合约页面，选到第8个功能train，填写一个数字1（表示是此钱包mint的第一个NFT，填其他数字会出错，除非你连续前面mint了多次，那可以输入更多的数字代表后面的NFT），点write，同样会弹出钱包确认gas
 
-&#x20;                                                    ![](<../.gitbook/assets/image (67).png>)
+&#x20;                                                    ![](<../.gitbook/assets/image (67) (1).png>)
 
 #### &#x20;       6. 再次走一遍3-4步骤的流程，此时点进NFT中，点击 刷新元数据
 
@@ -352,7 +352,7 @@ _本教程代码是画了一个苹果的NFT_
 
 &#x20;            等待10秒后，刷新页面，会看见数字从0变成1
 
-&#x20;                                                  ![](<../.gitbook/assets/image (75).png>)
+&#x20;                                                  ![](<../.gitbook/assets/image (75) (1).png>)
 
 
 

@@ -17,6 +17,7 @@
 * [第二周（Goerli测试网）](tasks/di-er-zhou-goerli-ce-shi-wang.md)
 * [第三周（Polygon mumbai网）](tasks/di-san-zhou-polygon-mumbai-wang.md)
 * [第五周（Goerli测试网）](tasks/di-wu-zhou-goerli-ce-shi-wang.md)
+* [第八周（Optimism Goerli测试网）](tasks/di-ba-zhou-optimism-goerli-ce-shi-wang.md)
 
 ## SUPPORT
 
