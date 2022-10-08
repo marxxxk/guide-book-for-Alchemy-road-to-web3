@@ -18,6 +18,20 @@ coverY: 0
 
 #### &#x20;       3. 在 [任务中所用平台和工具](../preparation/ren-wu-zhong-suo-yong-ping-tai-he-gong-ju.md) 的流程中，在Metamask上添加 Optimism Goerli 网络，url会用到2步骤中的 HTTPS
 
+#### &#x20;       4. 获取Optimism Goerli上测试ETH
+
+&#x20;           1）将钱包网络设置到ETH goerli测试网
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+&#x20;           2）进入 [https://goerlifaucet.com/](https://goerlifaucet.com/) ，登录Alchemy账户，输入自己钱包地址，点击“Send me ETH”
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;           3）拿到后，进入 [https://app.optimism.io/bridge](https://app.optimism.io/bridge) ，页面上选择optimism goerli，填入转币数量，再点Deposit（没输入数量前显示的是灰色的Enter a mount）
+
+<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+
 
 
 ### 二、项目代码初始化
@@ -56,7 +70,7 @@ coverY: 0
 
 &#x20;                                             ![](<../.gitbook/assets/image (23).png>)
 
-&#x20;                                            ![](../.gitbook/assets/image.png)
+&#x20;                                            ![](<../.gitbook/assets/image (21).png>)
 
 #### &#x20;        7. 回车后，自动跳到内容，复制以下内容替换（记得保存）
 
@@ -478,7 +492,7 @@ _查看下面红框处网络，如果不对，表示钱包没切换到 <mark sty
 _显示的大数字是当前钱包的币余额多少_
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (40) (3).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       4. 输入 factory = ethers.getContractFactory("Casino") ，回车
 

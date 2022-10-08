@@ -39,6 +39,10 @@ NAME处根据任务来命名
 
 <figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+_提示：对于英文稍好的朋友，HTTPS处的链接前缀可以看出是哪个网络。比如eth-mainnet表示eth主网，optimism-mainnet表示polygon主网，optimism-goerli则表示optimism的goerli测试网，以此类推_
+{% endhint %}
+
 
 
 ### 二、钱包相关
