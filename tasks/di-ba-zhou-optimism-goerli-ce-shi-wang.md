@@ -14,13 +14,13 @@ coverY: 0
 
 #### &#x20;       1. 完成 [任务准备](../preparation/ren-wu-zhun-bei-zuo-qian-bi-kan.md) 中的第4、6步骤，项目命名为 road-to-web3-week8（可以自定义）
 
-#### &#x20;       2. 在 [任务中所用平台和工具](../preparation/ren-wu-zhong-suo-yong-ping-tai-he-gong-ju.md) 的流程中，Alchemy上创建Optimism Goerli测试网App，记录下其 <mark style="color:red;">HTTPS</mark> 以及 <mark style="color:red;">Metamask的钱包私钥</mark>
+#### &#x20;       2. 在 [任务中所用平台和工具](../preparation/ren-wu-zhong-suo-yong-ping-tai-he-gong-ju.md) 的流程中，Alchemy上创建 <mark style="color:red;">Optimism Goerli</mark> 测试网App，记录下其 <mark style="color:red;">HTTPS</mark> 以及 <mark style="color:red;">Metamask的钱包私钥</mark>
 
-#### &#x20;       3. 在 [任务中所用平台和工具](../preparation/ren-wu-zhong-suo-yong-ping-tai-he-gong-ju.md) 的流程中，在Metamask上添加 Optimism Goerli 网络，url会用到2步骤中的 HTTPS
+#### &#x20;       3. 在 [任务中所用平台和工具](../preparation/ren-wu-zhong-suo-yong-ping-tai-he-gong-ju.md) 的流程中，在Metamask上添加 <mark style="color:red;">Optimism Goerli</mark> 网络，url会用到2步骤中的 HTTPS
 
 #### &#x20;       4. 获取Optimism Goerli上测试ETH
 
-&#x20;           1）将钱包网络设置到ETH goerli测试网
+&#x20;           1）先将钱包网络设置到ETH goerli测试网
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
