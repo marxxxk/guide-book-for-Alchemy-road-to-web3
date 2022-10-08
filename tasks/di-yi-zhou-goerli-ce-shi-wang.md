@@ -304,9 +304,9 @@ _b. 将设置了walletLimit数量的代码、合约中几次safe mint、以及�
 
 ### 七、提交
 
-#### &#x20;          此周能证明完成任务的地址是合约地址：
+#### &#x20;          此周能证明完成任务的地址
 
-&#x20;           [https://goerli.etherscan.io/address/](https://goerli.etherscan.io/address/)您的合约地址
+&#x20;           1）合约地址： [https://goerli.etherscan.io/address/](https://goerli.etherscan.io/address/)您的合约地址
 
 {% hint style="info" %}
 _<mark style="color:red;">合约地址</mark> 在第三部分查看，点_ [_<mark style="color:red;">此处</mark>_](../preparation/ren-wu-ti-jiao-ren-wu-wan-cheng-shi-kan.md) _到任务提交部分_

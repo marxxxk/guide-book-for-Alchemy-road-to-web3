@@ -370,7 +370,7 @@ _切记删除与私钥相关的东西_
 
 #### &#x20;       本周能证明完成任务的地址
 
-&#x20;            1）合约地址
+&#x20;            1）合约地址： [https://mumbai.polygonscan.com/address/](https://mumbai.polygonscan.com/address/) 你的合约地址
 
 &#x20;            2）github地址
 

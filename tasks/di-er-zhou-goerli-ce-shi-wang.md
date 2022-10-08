@@ -1127,7 +1127,7 @@ _切记删除与私钥相关的东西_
 
 #### &#x20;       本周能证明完成的地址：
 
-&#x20;            1）合约地址
+&#x20;            1）合约地址：[https://goerli.etherscan.io/address/](https://goerli.etherscan.io/address/)你的合约地址
 
 &#x20;            2）replit上运行成功的Dapp地址（后缀为repl.co）
 
