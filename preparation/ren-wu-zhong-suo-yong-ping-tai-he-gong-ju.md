@@ -26,7 +26,9 @@ _c. 如果一个账号已构建5个APP，请及时更换到另一个账户（此
 #### &#x20;       3. 弹出页面上填写名字、选好网络等，点击create app
 
 {% hint style="info" %}
-NAME处根据任务来命名
+_NAME处根据任务来命名_
+
+_根据任务选择 <mark style="color:red;">**对应的链和网络**</mark>_
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
