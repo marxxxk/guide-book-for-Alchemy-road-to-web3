@@ -81,7 +81,7 @@ const Home = () => {
     setRes(1);
     console.log("fetching nfts");
     const api_key = "1234"
-    const baseURL = `https://polygon-mainnet.alchemyapi.io/v2/${api_key}/getNFTs/`;
+    const baseURL = `https://polygon-mainnet.g.alchemyapi.io/v2/${api_key}/getNFTs/`;
     var requestOptions = {
         method: 'GET'
       };
@@ -114,7 +114,7 @@ const Home = () => {
         method: 'GET'
       };
       const api_key = "1234"
-      const baseURL = `https://polygon-mainnet.alchemyapi.io/v2/${api_key}/getNFTsForCollection/`;
+      const baseURL = `https://polygon-mainnet.g.alchemyapi.io/v2/${api_key}/getNFTsForCollection/`;
       const fetchURL = `${baseURL}?contractAddress=${collection}&withMetadata=${"true"}`;
       const nfts = await fetch(fetchURL, requestOptions).then(data => {setRes(2); return data.json();})
       if (nfts) {
