@@ -80,7 +80,7 @@ const Home = () => {
     let nfts; 
     setRes(1);
     console.log("fetching nfts");
-    const api_key = "f3fzGySyOsVFsW0gcbKDqLWRyjvqw2BO"
+    const api_key = "1234"
     const baseURL = `https://polygon-mainnet.alchemyapi.io/v2/${api_key}/getNFTs/`;
     var requestOptions = {
         method: 'GET'
@@ -113,7 +113,7 @@ const Home = () => {
       var requestOptions = {
         method: 'GET'
       };
-      const api_key = "f3fzGySyOsVFsW0gcbKDqLWRyjvqw2BO"
+      const api_key = "1234"
       const baseURL = `https://polygon-mainnet.alchemyapi.io/v2/${api_key}/getNFTsForCollection/`;
       const fetchURL = `${baseURL}?contractAddress=${collection}&withMetadata=${"true"}`;
       const nfts = await fetch(fetchURL, requestOptions).then(data => {setRes(2); return data.json();})
@@ -172,7 +172,7 @@ const Home = () => {
       <div className="flex flex-col justify-start gap-y-12 mt-4 gap-x-2 absolute bottom-[20px] left-[50px]">
       {
         
-        NFTs.length > 1 ? ( 
+        NFTs.length ? ( 
           <div className="flex m-4">
             <InfiniteScroll
               dataLength={100}
@@ -200,7 +200,7 @@ export default Home
 ```
 
 {% hint style="info" %}
-_a. 粘贴过去后，有2处API KEY需要修改，分别是index.jsx的第15行和第47行，改为_ [_准备工作_](di-si-zhou-polygon-zhu-wang.md#yi-zhun-bei-gong-zuo) _中拿到的 <mark style="color:red;">API KEY</mark>_
+_a. 粘贴过去后，有2处API KEY需要修改，分别是index.jsx的第15行和第47行（默认赋值为1234的），改为_ [_准备工作_](di-si-zhou-polygon-zhu-wang.md#yi-zhun-bei-gong-zuo) _中拿到的 <mark style="color:red;">API KEY</mark>_
 
 &#x20;               ![](<../.gitbook/assets/image (75).png>)
 
