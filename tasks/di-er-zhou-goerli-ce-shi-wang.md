@@ -56,7 +56,7 @@ _会出现不少 <mark style="color:yellow;">WARN</mark> ，不用管。除非�
 
 #### &#x20;       6. 输入： npm install --save-dev @nomiclabs/hardhat-waffle ， 回车
 
-<figure><img src="../.gitbook/assets/image (36) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (36) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       7. 输入： npm install dotenv ， 回车
 
@@ -276,7 +276,7 @@ main()
 
 &#x20;                                             ![](<../.gitbook/assets/image (6) (2).png>)
 
-&#x20;                                             ![](<../.gitbook/assets/image (37) (2).png>)
+&#x20;                                             ![](<../.gitbook/assets/image (37) (2) (1).png>)
 
 #### &#x20;       14. 回车后，跳到内容，复制以下进去（记得保存）
 
@@ -418,7 +418,7 @@ _这时部署到Goerli测试网了，记录一下_ _<mark style="color:red;">dep
 
 #### &#x20;        4. 输入： npx hardhat run scripts/withdraw.js ， 回车
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _中间的 <mark style="color:red;">0.004 ETH</mark> 是不固定的，有些会出现 0.000_
@@ -1093,7 +1093,7 @@ entrypoint = './buyabcacoffee-dapp/pages/index.jsx'
 
 &#x20;           2）输入 名字，以及想发送的话，点击 Send 1 Coffee for 0.001 ETH，确认gas
 
-<figure><img src="../.gitbook/assets/image (27) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;            3）等待合约交互，可从metamask的活动里查看
 

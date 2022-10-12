@@ -68,7 +68,7 @@ coverY: 0
 
 #### &#x20;       3. 输入 npm init -y ，回车
 
-<figure><img src="../.gitbook/assets/image (17) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;        4. 输入 npm install hardhat ，回车
 
@@ -236,7 +236,7 @@ module.exports = {
 
 &#x20;           2）输入 <mark style="color:red;">.env</mark> (文件名最前面有小数点)
 
-&#x20;                                           ![](<../.gitbook/assets/image (61) (2).png>)
+&#x20;                                           ![](<../.gitbook/assets/image (61) (2) (1).png>)
 
 &#x20;           3）回车后，自动跳到内容，复制以下内容进去
 
@@ -286,7 +286,7 @@ _图中最后的地址要记录一下，方便后面操作_
 
 #### &#x20;       3. 等待大约10秒后，输入 <mark style="color:red;">npx hardhat verify --network mumbai</mark> + <mark style="color:red;">上图中的地址</mark>  （+号并不需要，只是为了说明要跟在后面），回车
 
-<figure><img src="../.gitbook/assets/image (20) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       4. 上一步图中最后的链接，即合约地址，可复制后新打开网页粘贴进去，查看合约状态，如果Contract标签处显示绿勾，即进行后续步骤，否则需要等待
 
@@ -322,7 +322,7 @@ _选Metamask后，页面会弹出一个消息框，点确认即可_
 
 &#x20;           2）再点击mint处旁边的 View your transaction，查看合约
 
-&#x20;                                                ![](<../.gitbook/assets/image (6) (1) (3).png>)
+&#x20;                                                ![](<../.gitbook/assets/image (6) (1) (3) (1).png>)
 
 &#x20;           3）此时合约交互应还在处理中，右上角会滚动出现点
 
@@ -352,7 +352,7 @@ _本教程代码是画了一个苹果的NFT_
 
 &#x20;            等待10秒后，刷新页面，会看见数字从0变成1
 
-&#x20;                                                  ![](<../.gitbook/assets/image (75) (1).png>)
+&#x20;                                                  ![](<../.gitbook/assets/image (75) (1) (1).png>)
 
 
 

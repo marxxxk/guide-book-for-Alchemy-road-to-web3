@@ -35,11 +35,11 @@ _根据任务选择 <mark style="color:red;">**对应的链和网络**</mark>_
 
 #### &#x20;       4. 创建成功后，点击 VIEW KEY
 
-<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       5. 复制两个红框的内容，<mark style="color:red;">HTTPS</mark> 和 <mark style="color:red;">API KEY</mark> ，用于任务
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _提示：对于英文稍好的朋友，HTTPS处的链接前缀可以看出是哪个网络。比如eth-mainnet表示eth主网，optimism-mainnet表示polygon主网，optimism-goerli则表示optimism的goerli测试网，以此类推_
@@ -57,7 +57,7 @@ _提示：对于英文稍好的朋友，HTTPS处的链接前缀可以看出是�
 
 #### &#x20;           2. 点击 导出私钥
 
-<figure><img src="../.gitbook/assets/image (15) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;           3. 复制红框中内容，用于任务
 
@@ -87,7 +87,7 @@ _建议采用_ [_<mark style="color:red;">任务准备</mark>_](ren-wu-zhun-bei-
 
 #### &#x20;           2. 如果区块浏览器的地址不对，就点击钱包网络旁边的按钮，选 设置（正常的话跳过此步）
 
-&#x20;                                                    ![](<../.gitbook/assets/image (3) (2).png>)
+&#x20;                                                    ![](<../.gitbook/assets/image (3) (2) (1).png>)
 
 &#x20;               1）进去后选择 网络
 

@@ -22,11 +22,11 @@ coverY: 0
 
 &#x20;           1）先将钱包网络设置到ETH goerli测试网
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           2）进入 [https://goerlifaucet.com/](https://goerlifaucet.com/) ，登录Alchemy账户，输入自己钱包地址，点击“Send me ETH”
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           3）拿到后，进入 [https://app.optimism.io/bridge](https://app.optimism.io/bridge) ，页面上选择optimism goerli，填入转币数量，再点Deposit（没输入数量前显示的是灰色的Enter a mount）
 
@@ -52,17 +52,17 @@ coverY: 0
 
 <figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (61) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       4. 输入 npx hardhat ，回车（中间几次选择都直接回车）
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       5. 输入 npm install dotenv ，回车
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       6. 左边栏点开Casino/contracts目录，把Lock.sol改名为Casino.sol
 
@@ -425,7 +425,7 @@ module.exports = {
 
 #### &#x20;       11. 点击Casino右侧的三个点，选Add file，输入 <mark style="color:red;">.env</mark>                                               &#x20;
 
-&#x20;                                          ![](<../.gitbook/assets/image (27).png>)
+&#x20;                                          ![](<../.gitbook/assets/image (27) (2).png>)
 
 &#x20;                                      ![](<../.gitbook/assets/image (58).png>)
 
@@ -450,7 +450,7 @@ _PRIVATE\_KEY=后面填入_ [_准备工作_](di-ba-zhou-optimism-goerli-ce-shi-w
 
 &#x20;                                                   ![](<../.gitbook/assets/image (91).png>)
 
-&#x20;                                                      ![](<../.gitbook/assets/image (6).png>)
+&#x20;                                                      ![](<../.gitbook/assets/image (6) (1).png>)
 
 #### &#x20;       14. 清除.replit全部内容（记得保存）
 
@@ -484,7 +484,7 @@ _下图红框处为钱包地址_
 _查看下面红框处网络，如果不对，表示钱包没切换到 <mark style="color:red;">optimism goerli</mark> 上_
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (75) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       3. 输入 balance0 = await ethers.provider.getBalance((await ethers.getSigner()).address) ，回车
 
@@ -496,7 +496,7 @@ _显示的大数字是当前钱包的币余额多少_
 
 #### &#x20;       4. 输入 factory = ethers.getContractFactory("Casino") ，回车
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       5. 输入 factory = await factory ，回车
 
@@ -506,7 +506,7 @@ _显示的大数字是当前钱包的币余额多少_
 
 #### &#x20;       7. 输入 casino = await factory.deploy() ，回车
 
-<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (36) (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
@@ -526,7 +526,7 @@ const valBwin = ethers.utils.keccak256(0x600D60A7)
 
 #### &#x20;       9. 输入 tx1 = await casino.proposeBet(hashA,{ value: 1e5}) ，回车
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       10. 输入 tx2 = await casino.acceptBet(hashA, valBwin, {value: 1e5})，回车
 

@@ -146,7 +146,7 @@ _b. 将上一步复制的URL，粘贴替换下面的 ”image“后面_
 
 #### &#x20;       5. 打开后，等一小会会自动跳到智能合约代码界面
 
-<figure><img src="../.gitbook/assets/image (15) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           1）在第14行填入 <mark style="color:red;">uint256 MAX\_SUPPLY = 100000;</mark>
 
@@ -166,7 +166,7 @@ _b. 将上一步复制的URL，粘贴替换下面的 ”image“后面_
 
 #### &#x20;       1. 回到 Remix，点击页面左侧的Solidity compiler，版本选0.8.4，勾选Auto compile，然后点击“Compile”按钮
 
-<figure><img src="../.gitbook/assets/image (11) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       2. 左边栏点击“Deploy & Run Transactions”菜单
 
@@ -244,7 +244,7 @@ _由于_ [_https://testnets.opensea.io/_](https://testnets.opensea.io/) _目前�
 
 &#x20;           1）红圈图片为刚mint的图片
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       2. 如果图像尚不可见，点击进去，然后单击右下的“Refresh”按钮，大约需要几分钟
 
