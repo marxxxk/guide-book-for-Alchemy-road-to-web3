@@ -405,5 +405,9 @@ _本周因未用到私钥，可以发布出来_
 
 &#x20;           3）replit构建运行的Dapp地址（run产生的地址，后缀是repl.co）
 
+{% hint style="info" %}
+_点_ [_<mark style="color:red;">此处</mark>_](../preparation/ren-wu-ti-jiao-ren-wu-wan-cheng-shi-kan.md) _到任务提交部分_
+{% endhint %}
+
 
 
