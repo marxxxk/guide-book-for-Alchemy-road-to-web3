@@ -403,7 +403,7 @@ _a.随机数需要等好一会（30秒-几分钟不等），点call才会出现�
 _b.可重复上面的操作，点击 <mark style="color:red;">requestRandomWords</mark> 方法重新获取随机数，需要多等几分钟才能获取到新的随机数_
 {% endhint %}
 
-&#x20;           4）很多朋友反映不知道怎么判断啥时候可以拿到随机值，这里增加一个方法。在前面的chainlink的vrf页面上，可以看到已经绑定的consumer，其中的一项“Total spent LINK”，只要出现了消耗值，即表示随机数生成成功，如图
+&#x20;           4）很多朋友反映不知道怎么判断啥时候可以拿到随机值，这里增加一个方法。在前面的chainlink的vrf页面上，可以看到已经绑定的consumer，其中的一项“Total spent LINK”，只要<mark style="color:red;">等待到</mark>出现了消耗值，即表示随机数生成成功，如图
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
