@@ -221,7 +221,7 @@ _比如想切换到 Polygon Mumbai 测试网，以16行为例，应将：_
 
 #### &#x20;       7. 在hymngallery/pages文件夹下新增nftCard.jsx文件
 
-&#x20;                                               ![](<../.gitbook/assets/image (1).png>)
+&#x20;                                               ![](<../.gitbook/assets/image (1) (1).png>)
 
 #### &#x20;       8. 回车，自动到内容，填入以下内容（记得保存）
 
@@ -328,7 +328,7 @@ _图片可去_ [_https://www.pexels.com/zh-cn/_](https://www.pexels.com/zh-cn/) 
 
 #### &#x20;       1. 点击Files右边三个点处，选择“show hidden files”
 
-&#x20;                                           ![](../.gitbook/assets/image.png)
+&#x20;                                           ![](<../.gitbook/assets/image (2).png>)
 
 #### &#x20;       2. 点击.replit，复制以下内容替换（记得保存）
 
@@ -359,7 +359,7 @@ _如果最开始创建的目录名是自定义的，这里的 hymngallery 同样
 
 #### &#x20;       1. 在replit出现页面示例的那里，会有一个链接，复制它并粘贴到新的网页上打开
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       2. 复制钱包地址，粘贴到第一个框里，点击 Show NFTs
 

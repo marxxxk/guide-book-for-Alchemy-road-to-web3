@@ -22,7 +22,7 @@ coverY: 0
 
 &#x20;           1）先将钱包网络设置到ETH goerli测试网
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           2）进入 [https://goerlifaucet.com/](https://goerlifaucet.com/) ，登录Alchemy账户，输入自己钱包地址，点击“Send me ETH”
 
