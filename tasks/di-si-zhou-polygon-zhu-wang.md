@@ -30,7 +30,7 @@ _命令最后的hymngallery可以任意修改_
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-#### &#x20;       2.  输入 cd hymngalley ，回车
+#### &#x20;       2.  输入 cd hymngallery ，回车
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
