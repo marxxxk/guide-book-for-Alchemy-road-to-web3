@@ -57,7 +57,7 @@ function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />
 }
 
-export default MyAppe
+export default MyApp
 ```
 
 #### &#x20;       6. 点击index.jsx，自动到中间内容，替换成以下内容（记得保存）
