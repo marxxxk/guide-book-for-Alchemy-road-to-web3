@@ -41,7 +41,7 @@ _任务提交在discord里专门的一个频道，如果没有按要求写，会
 
 &#x20;               h. 请留下你eth钱包的地址，方便收到pok奖励
 
-&#x20;               i. 以上要点完成后，请在最后附上 来自Alchemy University的官方推特账户[https://twitter.com/AlchemyLearn ](https://twitter.com/AlchemyLearn) [https://university.alchemy.com/](https://university.alchemy.com/)
+&#x20;               i. 以上要点完成后，请在最后附上 来自Alchemy University的官方推特账户[https://twitter.com/AlchemyLearn ](https://twitter.com/AlchemyLearn)以及其官网 [https://university.alchemy.com/](https://university.alchemy.com/)
 
 &#x20;           b. 在”What is your public wallet address where you want to receive your Proof of Knowledge NFT?“填写获得NFT奖励的钱包地址
 
