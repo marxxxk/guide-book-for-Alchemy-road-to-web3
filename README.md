@@ -35,6 +35,6 @@ coverY: 0
 
 &#x20;       Alchemy计划将新资金用于推广Web3采用，这方面的一些举措包括推出 [_**Alchemy University**_](https://university.alchemy.com/)
 
-&#x20;         _****_          其中一个系列学习课程就是现在的 _**Road to Web3**_ 活动，活动为期10周，每周一个POK奖励。
+&#x20;         _****_          其中一个系列学习课程就是现在的 [_**Road to Web3**_](https://docs.alchemy.com/docs/welcome-to-the-road-to-web3) 活动，活动为期10周，每周一个POK奖励。
 
 &#x20;    &#x20;
