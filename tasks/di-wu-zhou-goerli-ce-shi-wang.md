@@ -260,9 +260,10 @@ contract ABC is ERC721URIStorage, Ownable, VRFConsumerBaseV2, KeeperCompatibleIn
     function _beforeTokenTransfer(
         address from,
         address to,
-        uint256 tokenId
+        uint256 tokenId,
+        uint
     ) internal override(ERC721) {
-        super._beforeTokenTransfer(from, to, tokenId);
+        super._beforeTokenTransfer(from, to, tokenId, 1);
     }
 
     function _burn(uint256 tokenId)
